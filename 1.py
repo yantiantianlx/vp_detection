@@ -6,7 +6,7 @@ import os
 sess = tf.InteractiveSession()
 
 
-#current_dir = os.getcwd()
+current_dir = os.getcwd()
 img_dir = 'VP_224/'
 points_dir =  'vanishingpoint_record.txt'
 records_name =  'train_one_color.tfrecords'
