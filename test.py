@@ -34,4 +34,7 @@ finally:
     coord.request_stop()
 
 coord.join(threads)
-sess.close()
+sess.close
+
+
+testbyRyantestbyRyantestbyRyantestbyRyantestbyRyantestbyRyantestbyRyantestbyRyan
